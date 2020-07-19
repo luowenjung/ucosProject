@@ -7,5 +7,6 @@ int main()
 {
 	printf("hello world");
 	printf("im am luo");
+	printf(“%d”,multiply(2,3));
 	return 0;
 }
