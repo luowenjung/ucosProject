@@ -7,5 +7,6 @@ int main()
 {
 	printf("hello world");
 	printf("im am luo");
+	printf("c program is wonderful");
 	return 0;
 }
